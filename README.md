@@ -30,7 +30,7 @@
 
 <!-- <b>Languages</b><br><br> -->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
 <!-- <br><br> -->
 
@@ -54,7 +54,7 @@
 
 <!-- <b>Infrastructure</b><br><br> -->
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=vercel" />
 
 <!-- <br><br> -->
 
