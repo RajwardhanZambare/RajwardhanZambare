@@ -54,8 +54,6 @@
 
 <b align="center">Infrastructure</b><br>
 
-<img src="https://skillicons.dev/icons?i=vercel" />
-
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,render,railway" />
 
