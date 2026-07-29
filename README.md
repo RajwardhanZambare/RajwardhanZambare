@@ -42,3 +42,19 @@
     width="100%"
   />
 </picture>
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajwardhan-zambare-704b93321" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zambarerajwardhan4063@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rajwardhan.z/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</p>
