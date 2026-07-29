@@ -1,3 +1,4 @@
+<!-- profile -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner/light.svg">
@@ -6,6 +7,7 @@
 
 <br>
 
+<!-- streak section -->
 <p align="center">
   <img
     width="100%"
@@ -14,6 +16,55 @@
   />
 </p>
 
+
+<!-- tech stack -->
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+
+<b>Toolchain</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+<br><br>
+
+<b>Languages</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql" />
+
+<br><br>
+
+<b>Frontend</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+
+<br><br>
+
+<b>Backend</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+<b>Database</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+<b>Infrastructure</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=render,railway" />
+
+</p>
+
+
+
+<!-- github stats and language stats -->
 <p align="center">
   <img
     height="180"
@@ -27,6 +78,7 @@
   />
 </p>
 
+<!-- contribution snake -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -43,6 +95,8 @@
   />
 </picture>
 
+
+<!-- contact section -->
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
