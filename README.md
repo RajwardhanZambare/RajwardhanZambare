@@ -22,7 +22,7 @@
   />
   <img
     width="49%"
-    src="https://github-readme-stats-two-nu-74.vercel.app/api/top-langs/?username=RajwardhanZambare&layout=compact&hide_border=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&border_radius=12"
+    src="https://github-readme-stats-two-nu-74.vercel.app/api/top-langs/?username=RajwardhanZambare&layout=compact&langs_count=8&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1"
     alt="Top Languages"
   />
 </p>
