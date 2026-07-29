@@ -17,6 +17,7 @@
 <p align="center">
   <img
     width="49%"
+    height="27vh"
     src="https://github-readme-stats-two-nu-74.vercel.app/api?username=RajwardhanZambare&show_icons=true&hide_border=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&icon_color=10B981&border_radius=12"
     alt="GitHub Stats"
   />
