@@ -22,41 +22,40 @@
 
 <p align="center">
 
-<!-- <b>Toolchain</b><br><br> -->
+<b align="center">Toolchain</b><br>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-<!-- <br><br> -->
+<br>
 
-<!-- <b>Languages</b><br><br> -->
+<b align="center">Languages</b><br>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
 
-<!-- <br><br> -->
+<br>
 
-<!-- <b>Frontend</b><br><br> -->
+<b align="center>Frontend</b><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
-<!-- <br><br> -->
+<br>
 
-<!-- <b>Backend</b><br><br> -->
+<b align="center">Backend</b><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<!-- <br><br> -->
+<br>
 
-<!-- <b>Database</b><br><br> -->
+<b align="center">Database</b><br>
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<!-- <br><br> -->
+<br>
 
-<!-- <b>Infrastructure</b><br><br> -->
+<b align="center">Infrastructure</b><br>
 
 <img src="https://skillicons.dev/icons?i=vercel" />
 
-<!-- <br><br> -->
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=render,railway" />
 
