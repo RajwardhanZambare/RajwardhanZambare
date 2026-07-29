@@ -20,7 +20,8 @@
 <!-- tech stack -->
 <h3 align="center">🛠️ Tech Stack</h3>
 
-<p align="center">
+<p align-"center">
+    <p align="center">
 
 <b align="center">Toolchain</b><br>
 
@@ -57,6 +58,7 @@
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,render,railway" />
 
+</p>
 </p>
 
 
