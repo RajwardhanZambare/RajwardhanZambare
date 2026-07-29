@@ -16,12 +16,12 @@
 
 <p align="center">
   <img
-    width="49%"
+    height="180"
     src="https://github-readme-stats-two-nu-74.vercel.app/api?username=RajwardhanZambare&show_icons=true&hide_border=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1&icon_color=10B981&border_radius=12"
     alt="GitHub Stats"
   />
   <img
-    width="49%"
+    height="180"
     src="https://github-readme-stats-two-nu-74.vercel.app/api/top-langs/?username=RajwardhanZambare&layout=compact&langs_count=8&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=CBD5E1"
     alt="Top Languages"
   />
