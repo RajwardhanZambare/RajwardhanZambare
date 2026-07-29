@@ -30,7 +30,7 @@
 
 <!-- <b>Languages</b><br><br> -->
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,sql" />
 
 <!-- <br><br> -->
 
