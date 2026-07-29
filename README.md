@@ -34,7 +34,7 @@
 
 <!-- <br><br> -->
 
-<b>Frontend</b><br><br>
+<!-- <b>Frontend</b><br><br> -->
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 
