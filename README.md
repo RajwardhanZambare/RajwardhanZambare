@@ -7,6 +7,14 @@
 
 <br>
 
+<!-- profile views count -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=RajwardhanZambare&label=Profile%20Views&color=10B981&labelColor=0A101F&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
 <!-- streak section -->
 <p align="center">
   <img
